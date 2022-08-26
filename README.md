@@ -9,3 +9,5 @@ This repo contains my snake game project file
 - [x] 6. Add some Text to make UI more clear (Won/Score/...)
 - [x] 7. Add Prize handling functionality to the Update method
 - [ ] 8. Add Loss handling functionality to the Update method
+- [ ] 9. Add Data Gathering functionality
+- [ ] 10. Train a ML model on Gathered Data to detect The Collision 
