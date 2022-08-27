@@ -1,5 +1,7 @@
-# Snake_Game_OpenCV
-This repo contains my snake game project file
+# Snake_Game_OpenCV 
+
+![snake_game_1533210447](https://user-images.githubusercontent.com/90381570/187049334-eb4c02f1-12c6-4de2-8a6c-984e2437f519.jpg)
+
 # Design Process:
 - [x] 1. Prepare the Environment
 - [x] 2. Access the Webcam and Start Working with Hand tracking Model
@@ -11,3 +13,4 @@ This repo contains my snake game project file
 - [ ] 8. Add Loss handling functionality to the Update method
 - [ ] 9. Add Data Gathering functionality
 - [ ] 10. Train a ML model on Gathered Data to detect The Collision 
+
