@@ -1,6 +1,7 @@
 # Snake_Game_OpenCV 
+Remember the classic snake game from Nokia phones?
+Well, this version adds a twist! Instead of using button inputs to maneuver the snake, it tracks the movement of your fingertip using a webcam.
 
-![snake_game_1533210447](https://user-images.githubusercontent.com/90381570/187049334-eb4c02f1-12c6-4de2-8a6c-984e2437f519.jpg)
 
 ### To Do:
 - [x] 1. Prepare the Environment
